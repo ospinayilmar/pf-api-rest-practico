@@ -1,0 +1,19 @@
+{
+  "name": "pf-api-rest-practico",
+  "version": "1.0.0",
+  "description": "App de aprendizaje para portafolio de desarrollo como FrontEnd",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ospinayilmar/pf-api-rest-practico.git"
+  },
+  "author": "@ospina.yilmar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ospinayilmar/pf-api-rest-practico/issues"
+  },
+  "homepage": "https://github.com/ospinayilmar/pf-api-rest-practico#readme"
+}
